@@ -1,0 +1,6 @@
+apiVersion: default.my.domain/v1alpha1
+kind: VisitorsApp
+metadata:
+  name: visitorsapp-sample
+spec:
+  foo: bar
